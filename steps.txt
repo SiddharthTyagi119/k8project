@@ -1,0 +1,5 @@
+create a project, run it locally 
+build docker image, yaml file  
+test the docker image locally
+install and configure minikube 
+create cluster ,check pods and nodes and push the docker image into it 
