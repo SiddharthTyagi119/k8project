@@ -3,3 +3,8 @@ build docker image, yaml file
 test the docker image locally
 install and configure minikube 
 create cluster ,check pods and nodes and push the docker image into it 
+check the img is running inside pod 
+access the app that is deployed on cluster pod  
+try to run the app on 2 pods parallel
+use service through postman 
+
